@@ -1,3 +1,4 @@
+#hosted @ https://lottery-contract-dapp.herokuapp.com/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
